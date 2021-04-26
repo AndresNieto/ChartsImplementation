@@ -1,0 +1,29 @@
+<div *ngIf="barChartType" class="p-5">
+  <canvas
+    baseChart
+    [datasets]="barChartData"
+    [labels]="barChartLabels"
+    [options]="barChartOptions"
+    [plugins]="barChartPlugins"
+    [legend]="barChartLegend"
+    [chartType]="barChartType"
+  >
+  </canvas>
+</div>
+<div
+  class="d-flex p-2 justify-content-center align-items-center"
+  *ngIf="yearSelected"
+>
+  <p for="" class="mb-1 me-5"><b>Tipo de grafico: </b></p>
+  <div class="form-check form-check-inline" *ngFor="let chart of chartTypes">
+    <input
+      class="form-check-input"
+      type="radio"
+      name="inlineRadioOptions"
+      id="inlineRadio1"
+      value="{{ chart.type }}"
+      [(ngModel)]="barChartType"
+    />
+    <label class="form-check-label" for="inlineRadio1">{{ chart.label }}</label>
+  </div>
+</div>

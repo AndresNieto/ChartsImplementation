@@ -1,0 +1,55 @@
+{
+  "dataByYear": [
+    {
+      "year": 2018,
+      "months": [
+        { "monthName": "January", "pregnantsAmount": 100, "kidsAmount": 30 },
+        { "monthName": "February", "pregnantsAmount": 300, "kidsAmount": 200 },
+        { "monthName": "March", "pregnantsAmount": 500, "kidsAmount": 200 },
+        { "monthName": "April", "pregnantsAmount": 600, "kidsAmount": 200 },
+        { "monthName": "May", "pregnantsAmount": 700, "kidsAmount": 200 },
+        { "monthName": "June", "pregnantsAmount": 200, "kidsAmount": 200 },
+        { "monthName": "July", "pregnantsAmount": 900, "kidsAmount": 200 },
+        { "monthName": "August", "pregnantsAmount": 200, "kidsAmount": 30 },
+        { "monthName": "September", "pregnantsAmount": 150, "kidsAmount": 120 },
+        { "monthName": "October", "pregnantsAmount": 120, "kidsAmount": 120 },
+        { "monthName": "November", "pregnantsAmount": 900, "kidsAmount": 30 },
+        { "monthName": "December", "pregnantsAmount": 900, "kidsAmount": 120 }
+      ]
+    },
+    {
+      "year": 2019,
+      "months": [
+        { "monthName": "January", "pregnantsAmount": 900, "kidsAmount": 150 },
+        { "monthName": "February", "pregnantsAmount": 300, "kidsAmount": 30 },
+        { "monthName": "March", "pregnantsAmount": 500, "kidsAmount": 150 },
+        { "monthName": "April", "pregnantsAmount": 150, "kidsAmount": 150 },
+        { "monthName": "May", "pregnantsAmount": 700, "kidsAmount": 30 },
+        { "monthName": "June", "pregnantsAmount": 200, "kidsAmount": 120 },
+        { "monthName": "July", "pregnantsAmount": 500, "kidsAmount": 150 },
+        { "monthName": "August", "pregnantsAmount": 900, "kidsAmount": 120 },
+        { "monthName": "September", "pregnantsAmount": 150, "kidsAmount": 30 },
+        { "monthName": "October", "pregnantsAmount": 120, "kidsAmount": 120 },
+        { "monthName": "November", "pregnantsAmount": 900, "kidsAmount": 30 },
+        { "monthName": "December", "pregnantsAmount": 200, "kidsAmount": 120 }
+      ]
+    },
+    {
+      "year": 2020,
+      "months": [
+        { "monthName": "January", "pregnantsAmount": 100, "kidsAmount": 30 },
+        { "monthName": "February", "pregnantsAmount": 300, "kidsAmount": 100 },
+        { "monthName": "March", "pregnantsAmount": 500, "kidsAmount": 30 },
+        { "monthName": "April", "pregnantsAmount": 900, "kidsAmount": 100 },
+        { "monthName": "May", "pregnantsAmount": 300, "kidsAmount": 30 },
+        { "monthName": "June", "pregnantsAmount": 200, "kidsAmount": 100 },
+        { "monthName": "July", "pregnantsAmount": 200, "kidsAmount": 30 },
+        { "monthName": "August", "pregnantsAmount": 300, "kidsAmount": 100 },
+        { "monthName": "September", "pregnantsAmount": 150, "kidsAmount": 30 },
+        { "monthName": "October", "pregnantsAmount": 120, "kidsAmount": 100 },
+        { "monthName": "November", "pregnantsAmount": 900, "kidsAmount": 30 },
+        { "monthName": "December", "pregnantsAmount": 300, "kidsAmount": 100 }
+      ]
+    }
+  ]
+}
